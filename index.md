@@ -15,7 +15,7 @@ Aprendizado  de  Máquina  compreende  uma  subárea  da  Inteligência  Artific
 
 ## Calendário 
 
-TODO
+Clique aqui https://homepages.dcc.ufmg.br/~assuncao/AAP/Cronograma.pdf
 
 <a name="collab"/>
 
